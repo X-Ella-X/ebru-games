@@ -1,0 +1,26 @@
+{
+  "type": "module",
+  "name": "group-pj",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Burak5796/Group-PJ.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Burak5796/Group-PJ/issues"
+  },
+  "homepage": "https://github.com/Burak5796/Group-PJ#readme",
+  "dependencies": {
+    "chalk": "^5.0.1",
+    "enquirer": "^2.3.6",
+    "prompt-sync": "^4.2.0"
+  }
+}
