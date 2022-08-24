@@ -1,3 +1,4 @@
+#!/usr/bin/env node
 import promptSync from "prompt-sync";
 const prompt = promptSync({ eot: true }); // Strg. + D
 import chalk from "chalk";
@@ -7,6 +8,7 @@ import { questions } from "./questions.js";
 import { title } from "./title.js";
 import { dsgvo } from "./dsgvo.js";
 import {allStories} from "./allStories.js";
+
 
 // Titel
 title();

@@ -1,6 +1,6 @@
 {
   "type": "module",
-  "name": "group-pj",
+  "name": "the_adventure",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -9,18 +9,21 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Burak5796/Group-PJ.git"
+    "url": "git+https://github.com/X-Ella-X/ebru-games.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/Burak5796/Group-PJ/issues"
+    "url": "https://github.com/X-Ella-X/ebru-games/issues"
   },
-  "homepage": "https://github.com/Burak5796/Group-PJ#readme",
+  "homepage": "https://github.com/X-Ella-X/ebru-games#readme",
   "dependencies": {
     "chalk": "^5.0.1",
     "enquirer": "^2.3.6",
     "prompt-sync": "^4.2.0"
+  },
+  "bin": {
+    "ebru": "./index.js"
   }
 }

@@ -1,4 +1,4 @@
-# Group-PJ
+# The _Adventure by ebru-Games
 - Title             :   The ______ Adventure
 - Build by          :   E.B.R.U.-Games
 - Credits           :   Ella, Burak, Robert, Uwe
@@ -15,3 +15,7 @@
                         Großen Investoren
 - Special Thanks to :   The Entity called
                         "TheBeginning"
+
+## You can play our game in the terminal. Type in:
+
+#### nxp the_adventure
