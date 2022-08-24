@@ -18,4 +18,4 @@
 
 ## You can play our game in the terminal. Type in:
 
-#### nxp the_adventure
+#### npx the_adventure
